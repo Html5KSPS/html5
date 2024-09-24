@@ -138,8 +138,6 @@ questionLines = function(){/*--這一行請勿更改--
 ㄅㄚ˙.png##ㄅㄚ˙.mp3
 ㄅㄠˇ.png##ㄅㄠˇ.mp3
 ㄅㄠ˙.png##ㄅㄠ˙.mp3
-egg.png
-horse.png
-monkey.png
+ㄅㄧ
 
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
