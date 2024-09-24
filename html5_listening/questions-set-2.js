@@ -133,7 +133,6 @@ seperator = '##';
 //    第三欄為語音檔名(未指定時,用合成語音)
 //
 questionLines = function(){/*--這一行請勿更改--
-
 ㄅㄚˋ.mp3
 ㄅㄚ˙.mp3
 ㄅㄠˇ.mp3
