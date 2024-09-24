@@ -15,7 +15,7 @@ random_order_enabled = true;
 //---------------------------------
 //出幾題作答
 //---------------------------------
-questionsToAnswer = 20;
+questionsToAnswer = 19;
 
 //---------------------------------
 //每題出現幾個選項(最多六個)
@@ -135,9 +135,22 @@ seperator = '##';
 questionLines = function(){/*--這一行請勿更改--
 
 ㄅㄚˋ.mp3
-ㄅㄚ˙.png##ㄅㄚ˙.mp3
-ㄅㄠˇ.png##ㄅㄠˇ.mp3
-ㄅㄠ˙.png##ㄅㄠ˙.mp3
-ㄅㄧ
-
+ㄅㄚ˙.mp3
+ㄅㄠˇ.mp3
+ㄅㄠ˙.mp3
+ㄅㄧ.mp3
+ㄆㄠˇ.mp3
+ㄇㄚ.mp3
+ㄇㄚ˙mp3
+ㄇㄠ.mp3
+ㄇㄧ.mp3
+ㄈㄨ.mp3
+ㄉㄜˊ.mp3
+ㄉㄧˋ.mp3
+ㄉㄧ˙.mp3
+ㄏㄚ.mp3
+ㄏㄠˇ.mp3
+ㄓ.mp3
+ㄧˋ.mp3
+ㄨˇ.mp3
 -----*/}.toString().replace(/\r/g,"").slice("function(){/*--這一行請勿更改--".length+1,-9);
