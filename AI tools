@@ -1,1 +1,8 @@
+# 建立最外層的專案資料夾
+mkdir gemini_calendar_bot
 
+# 進入該資料夾
+cd gemini_calendar_bot
+
+# 建立 lib 子資料夾結構
+mkdir -p lib/gemini_calendar_bot
